@@ -1,2 +1,3 @@
 ﻿  CP_Basic.cpp
+C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\CP_Basic.cpp(167,6): warning C4804: '>=': unsafe use of type 'bool' in operation
   CP_Basic.vcxproj -> C:\Users\addinedu\Documents\CP_Basic\CP_Basic\x64\Debug\CP_Basic.exe
