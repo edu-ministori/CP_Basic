@@ -128,7 +128,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Ch01_Basic.cpp" />
+    <ClCompile Include="Ch02_Variable.cpp" />
+    <ClCompile Include="Ch03_Calculation.cpp" />
     <ClCompile Include="CP_Basic.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DefineFunction.h" />
+    <ClInclude Include="io.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
