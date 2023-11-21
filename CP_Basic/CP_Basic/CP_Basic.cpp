@@ -8,8 +8,14 @@
 using namespace std;
 // std::cout => cout
 
+// 함수 원형
+void DefineFunction();
+
 int main()
 {
+	// 함수 호출
+	DefineFunction();
+
 	//std::cout << "Hello World!\n";
 
 	// std : standard
@@ -499,7 +505,13 @@ int main()
 	int ProductPrice1 = 0;
 	int ProductNumber1 = 0;
 	int ProductTotalPrice1 = 0;
+	bool Zero = true;
+
 	while (TotalPrice1 != 0) {
+		if (TotalPrice1 < 0) {
+			Zero = false;
+			break;
+		}
 		// 2-1.
 		cout << "물건 개당 가격 입력 : ";
 		cin >> ProductPrice1;
@@ -511,8 +523,19 @@ int main()
 		// 2-4.
 		TotalPrice1 = TotalPrice1 - ProductTotalPrice1;
 	}
-	cout << "Yes" << endl;
+	if (Zero == false) {
+		cout << "No" << endl;
+	}
+	else {
+		cout << "Yes" << endl;
+	}
 
+}
+
+// 함수 정의
+void DefineFunction()
+{
+	cout << "Hello Function" << endl;
 }
 
 // 비트와 바이트에 대한 이해
