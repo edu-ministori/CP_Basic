@@ -130,6 +130,9 @@
     <ClCompile Include="Ch01_Basic.cpp" />
     <ClCompile Include="Ch02_Variable.cpp" />
     <ClCompile Include="Ch03_Calculation.cpp" />
+    <ClCompile Include="Ch04_Condition.cpp" />
+    <ClCompile Include="Ch05_Iteration.cpp" />
+    <ClCompile Include="Ch06_Function.cpp" />
     <ClCompile Include="CP_Basic.cpp" />
   </ItemGroup>
   <ItemGroup>
