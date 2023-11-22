@@ -11,10 +11,16 @@ int main()
 	// Variable();
 	// ParameterFunction(10,20);
 	// ParameterFunction(30, 40);
-	cout << 50 + ReturnFunction() << endl;
-	cout << 30 + ParamReturn(10, 20) << endl;
-	cout << 30 + ParamReturn(30, 40) << endl;
-	cout << 30 + ParamReturn(50, 60) << endl;
+	// cout << 50 + ReturnFunction() << endl;
+	// cout << 30 + ParamReturn(10, 20) << endl;
+	// cout << 30 + ParamReturn(30, 40) << endl;
+	// cout << 30 + ParamReturn(50, 60) << endl;
+
+	// PrintArray();
+	// SumArray();
+	// ProcessScore();
+
+	BubbleSort();
 }
 
 // 함수 정의 : main함수 뒤에 정의

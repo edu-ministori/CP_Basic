@@ -133,6 +133,8 @@
     <ClCompile Include="Ch04_Condition.cpp" />
     <ClCompile Include="Ch05_Iteration.cpp" />
     <ClCompile Include="Ch06_Function.cpp" />
+    <ClCompile Include="Ch07_VarScope.cpp" />
+    <ClCompile Include="Ch08_Array.cpp" />
     <ClCompile Include="CP_Basic.cpp" />
   </ItemGroup>
   <ItemGroup>
