@@ -139,6 +139,8 @@
     <ClCompile Include="Ch10_Enumeration.cpp" />
     <ClCompile Include="CP_Basic.cpp" />
     <ClCompile Include="Ex01_Flow.cpp" />
+    <ClCompile Include="Ex02_Array.cpp" />
+    <ClCompile Include="Ex03_Function.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DefineFunction.h" />

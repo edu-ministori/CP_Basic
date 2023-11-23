@@ -46,3 +46,45 @@ void PrintEven()
 
 	}
 }
+
+// 6-2) 표준 등급을 입력받아 100명당 평균 몇등인지 출력
+void Median(float StartNumber, float EndNumber)
+{
+	cout << (StartNumber + EndNumber) / 2 << endl;
+}
+
+void StandardGrade()
+{
+	int Grade = 0;
+	cin >> Grade;
+
+	switch (Grade) {
+		case 1:
+			Median(0, 4);
+			break;
+		case 2:
+			Median(4, 11);
+			break;
+		case 3:
+			Median(11, 23);
+			break;
+		case 4:
+			Median(23, 40);
+			break;
+		case 5:
+			Median(40, 60);
+			break;
+		case 6:
+			Median(60, 77);
+			break;
+		case 7:
+			Median(77, 89);
+			break;
+		case 8:
+			Median(89, 96);
+			break;
+		case 9:
+			Median(96, 100);
+			break;
+	}
+}

@@ -37,3 +37,12 @@ void Enumeration();
 
 void EvenOdd();
 void PrintEven();
+
+void Median(float StartNumber,float EndNumber);
+void StandardGrade();
+
+void ArraySum();
+void Sort();
+void Reverse();
+
+int Absolute(int Number);

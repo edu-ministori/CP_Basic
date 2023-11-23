@@ -16,17 +16,7 @@ int main()
 	// cout << 30 + ParamReturn(30, 40) << endl;
 	// cout << 30 + ParamReturn(50, 60) << endl;
 
-	// PrintArray();
-	// SumArray();
-	// ProcessScore();
-
-	// BubbleSort();
-	// MultiArray();
-	// DefineStructure();
-	// StructureArray();
-	// Enumeration();
-	// EvenOdd();
-	PrintEven();
+	cout << Absolute(-5);
 }
 
 // 함수 정의 : main함수 뒤에 정의
