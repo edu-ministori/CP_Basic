@@ -20,7 +20,13 @@ int main()
 	// SumArray();
 	// ProcessScore();
 
-	BubbleSort();
+	// BubbleSort();
+	// MultiArray();
+	// DefineStructure();
+	// StructureArray();
+	// Enumeration();
+	// EvenOdd();
+	PrintEven();
 }
 
 // 함수 정의 : main함수 뒤에 정의

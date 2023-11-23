@@ -30,3 +30,10 @@ void SumArray();
 void Grade(int NumTest);
 void ProcessScore();
 void BubbleSort();
+void MultiArray();
+void DefineStructure();
+void StructureArray();
+void Enumeration();
+
+void EvenOdd();
+void PrintEven();
