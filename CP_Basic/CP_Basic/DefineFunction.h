@@ -46,3 +46,14 @@ void Sort();
 void Reverse();
 
 int Absolute(int Number);
+
+void PointerVar();
+void PointerCalc();
+void PointerArray();
+
+void DynamicAlloc();
+void DynamicArray();
+void InputArraySize();
+
+void InputBall();
+void Dice();

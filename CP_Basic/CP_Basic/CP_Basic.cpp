@@ -16,7 +16,9 @@ int main()
 	// cout << 30 + ParamReturn(30, 40) << endl;
 	// cout << 30 + ParamReturn(50, 60) << endl;
 
-	cout << Absolute(-5);
+	// cout << Absolute(-5);
+
+	Dice();
 }
 
 // 함수 정의 : main함수 뒤에 정의
