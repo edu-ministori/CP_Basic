@@ -1,5 +1,6 @@
 #include "io.h"
 #include "Ch13-1_ClassHeader.h"
+#include "Ch13-2_Airplane.h"
 
 /*
 	정보 은닉 : 데이터 변수를 어디에서 사용할지 사용 범위 결정
@@ -53,4 +54,24 @@ void PrintPlayer()
 	Pino.PrintEnergy();
 	Pino.PrintItemNumber();
 	Pino.PrintWeapon();
+
+	Pino.ItemNumber = 5;
+	Pino.PrintItemNumber();
+}
+
+void PrintAirplane()
+{
+	Airplane F16;
+
+	F16.SetEnergy(100);
+	F16.SetBomb(10);
+
+	F16.PrintEnergy();
+	F16.PrintBomb();
+
+	F16.SetEnergy(F16.GetEnergy() - 30);
+	F16.SetBomb(F16.GetBomb() - 3);
+
+	F16.PrintEnergy();
+	F16.PrintBomb();
 }

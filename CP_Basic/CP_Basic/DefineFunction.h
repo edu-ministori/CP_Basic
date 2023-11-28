@@ -61,3 +61,5 @@ void Dice();
 void DefineClass();
 
 void PrintPlayer();
+
+void PrintAirplane();
