@@ -139,6 +139,8 @@
     <ClCompile Include="Ch10_Enumeration.cpp" />
     <ClCompile Include="Ch11_Pointer.cpp" />
     <ClCompile Include="Ch12_Dynamic.cpp" />
+    <ClCompile Include="Ch13-1_ClassMethod.cpp" />
+    <ClCompile Include="Ch13_Class.cpp" />
     <ClCompile Include="CP_Basic.cpp" />
     <ClCompile Include="Ex01_Flow.cpp" />
     <ClCompile Include="Ex02_Array.cpp" />
@@ -147,6 +149,7 @@
     <ClCompile Include="Ex05_Dice.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Ch13-1_ClassHeader.h" />
     <ClInclude Include="DefineFunction.h" />
     <ClInclude Include="io.h" />
   </ItemGroup>

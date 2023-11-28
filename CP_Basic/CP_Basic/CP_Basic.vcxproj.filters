@@ -69,12 +69,21 @@
     <ClCompile Include="Ex05_Dice.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Ch13_Class.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch13-1_ClassMethod.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="io.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="DefineFunction.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ch13-1_ClassHeader.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

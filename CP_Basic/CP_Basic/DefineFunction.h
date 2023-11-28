@@ -57,3 +57,7 @@ void InputArraySize();
 
 void InputBall();
 void Dice();
+
+void DefineClass();
+
+void PrintPlayer();
