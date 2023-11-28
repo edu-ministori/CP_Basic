@@ -64,3 +64,5 @@ void PrintPlayer();
 
 void PrintAirplane();
 void DynamicAirplane();
+
+void Score();

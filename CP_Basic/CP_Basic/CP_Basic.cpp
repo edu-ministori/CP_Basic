@@ -18,8 +18,7 @@ int main()
 
 	// cout << Absolute(-5);
 
-	//PrintAirplane();
-	DynamicAirplane();
+	Score();
 }
 
 // 함수 정의 : main함수 뒤에 정의

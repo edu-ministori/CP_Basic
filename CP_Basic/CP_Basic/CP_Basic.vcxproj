@@ -149,12 +149,15 @@
     <ClCompile Include="Ex03_Function.cpp" />
     <ClCompile Include="Ex04_Ball.cpp" />
     <ClCompile Include="Ex05_Dice.cpp" />
+    <ClCompile Include="Ex06_Score.cpp" />
+    <ClCompile Include="Ex06_ScoreMethod.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Ch13-1_ClassHeader.h" />
     <ClInclude Include="Ch13-2_Airplane.h" />
     <ClInclude Include="Ch13-3_This.h" />
     <ClInclude Include="DefineFunction.h" />
+    <ClInclude Include="Ex06_ScoreClass.h" />
     <ClInclude Include="io.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
