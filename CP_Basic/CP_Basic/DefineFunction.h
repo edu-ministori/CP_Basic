@@ -63,3 +63,4 @@ void DefineClass();
 void PrintPlayer();
 
 void PrintAirplane();
+void DynamicAirplane();

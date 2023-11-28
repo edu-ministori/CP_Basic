@@ -10,6 +10,14 @@ Airplane::Airplane()
 	cout << "Class Construct" << endl;
 }
 
+Airplane::Airplane(int EnergyNumber, int BombNumber)
+{
+	Energy = EnergyNumber;
+	SpecialBombNumber = BombNumber;
+
+	cout << "Class Parameter Construct" << endl;
+}
+
 Airplane::~Airplane()
 {
 	cout << "Class Destruct" << endl;

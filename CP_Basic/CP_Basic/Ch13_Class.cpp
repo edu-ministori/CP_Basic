@@ -74,4 +74,38 @@ void PrintAirplane()
 
 	F16.PrintEnergy();
 	F16.PrintBomb();
+
+	Airplane KF21(100, 20);
+
+	KF21.PrintEnergy();
+	KF21.PrintBomb();
+
+	KF21.SetEnergy(KF21.GetEnergy() - 30);
+	KF21.SetBomb(KF21.GetBomb() - 3);
+
+	KF21.PrintEnergy();
+	KF21.PrintBomb();
+
+}
+
+void DynamicAirplane()
+{
+	// 沥利 积己
+	Airplane Boeing(300, 2);
+
+	Boeing.PrintEnergy();
+
+	// 悼利 积己
+	Airplane* A10 = new Airplane;
+
+	A10->PrintEnergy();
+	A10->Temp = 0;
+
+	Airplane* A30 = new Airplane(300,4);
+
+	A30->PrintEnergy();
+	A30->PrintBomb();
+
+	delete A10;
+	delete A30;
 }

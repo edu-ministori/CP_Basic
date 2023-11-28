@@ -78,6 +78,9 @@
     <ClCompile Include="Ch13-2_AirplaneMethod.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Ch13-3_This.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="io.h">
@@ -90,6 +93,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Ch13-2_Airplane.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ch13-3_This.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -18,7 +18,8 @@ int main()
 
 	// cout << Absolute(-5);
 
-	PrintAirplane();
+	//PrintAirplane();
+	DynamicAirplane();
 }
 
 // 함수 정의 : main함수 뒤에 정의
