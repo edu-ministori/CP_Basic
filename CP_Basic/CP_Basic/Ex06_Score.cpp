@@ -15,30 +15,42 @@
 
 void Score()
 {
+	/*
 	Student st01('W', 100, 100, 50);
 	Student st02('X', 90, 70, 80);
 	Student st03('Y', 70, 80, 90);
 	Student st04('Z', 80, 100, 90);
 
-	st01.OperationTotal();
-	st01.OperationAverage();
-	st01.OperationGrade();
 	st01.PrintScore();
-
-	st02.OperationTotal();
-	st02.OperationAverage();
-	st02.OperationGrade();
 	st02.PrintScore();
-
-	st03.OperationTotal();
-	st03.OperationAverage();
-	st03.OperationGrade();
 	st03.PrintScore();
-
-	st04.OperationTotal();
-	st04.OperationAverage();
-	st04.OperationGrade();
 	st04.PrintScore();
+	*/
+
+	/*
+	* 데이터 입력 방법
+	* - 키보드 직접 입력
+	* - 파일, Database 불러오기 => 변수에 저장
+	*/ 
+	
+	char Name[4] = {'W','X','Y','Z'};
+
+	int Score[4][3] = {
+		{100,100,50},
+		{90,70,80},
+		{70,80,90},
+		{80,100,90}
+	};
+	
+	Student st[4];
+	for (int i = 0; i < 4; i++) {
+		st[i].Set(Name[i], Score[i][0], Score[i][1], Score[i][2]);
+	}
+
+	for (int i = 0; i < 4; i++) {
+		st[i].PrintScore();
+	}
+	
 }
 
 // 코드 => 수정/개선 => Refactoring

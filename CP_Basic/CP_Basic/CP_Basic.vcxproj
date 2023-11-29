@@ -134,7 +134,9 @@
     <ClCompile Include="Ch05_Iteration.cpp" />
     <ClCompile Include="Ch06_Function.cpp" />
     <ClCompile Include="Ch07_VarScope.cpp" />
+    <ClCompile Include="Ch08-1_MemberMethod.cpp" />
     <ClCompile Include="Ch08_Array.cpp" />
+    <ClCompile Include="Ch08_Member.cpp" />
     <ClCompile Include="Ch09_Structure.cpp" />
     <ClCompile Include="Ch10_Enumeration.cpp" />
     <ClCompile Include="Ch11_Pointer.cpp" />
@@ -143,6 +145,11 @@
     <ClCompile Include="Ch13-2_AirplaneMethod.cpp" />
     <ClCompile Include="Ch13-3_This.cpp" />
     <ClCompile Include="Ch13_Class.cpp" />
+    <ClCompile Include="Ch14_ArrayClass.cpp" />
+    <ClCompile Include="Ch15_StringClass.cpp" />
+    <ClCompile Include="Ch16_VectorClass.cpp" />
+    <ClCompile Include="Ch17-1_OverloadingMethod.cpp" />
+    <ClCompile Include="Ch17_Overloading.cpp" />
     <ClCompile Include="CP_Basic.cpp" />
     <ClCompile Include="Ex01_Flow.cpp" />
     <ClCompile Include="Ex02_Array.cpp" />
@@ -151,13 +158,18 @@
     <ClCompile Include="Ex05_Dice.cpp" />
     <ClCompile Include="Ex06_Score.cpp" />
     <ClCompile Include="Ex06_ScoreMethod.cpp" />
+    <ClCompile Include="Ex07-1_RobotMethod.cpp" />
+    <ClCompile Include="Ex07_Robot.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Ex08-1_MemberClass.h" />
     <ClInclude Include="Ch13-1_ClassHeader.h" />
     <ClInclude Include="Ch13-2_Airplane.h" />
     <ClInclude Include="Ch13-3_This.h" />
+    <ClInclude Include="Ch17-1_OverloadingClass.h" />
     <ClInclude Include="DefineFunction.h" />
     <ClInclude Include="Ex06_ScoreClass.h" />
+    <ClInclude Include="Ex07-1_RobotClass.h" />
     <ClInclude Include="io.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

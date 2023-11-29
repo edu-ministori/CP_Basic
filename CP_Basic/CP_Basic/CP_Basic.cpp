@@ -18,7 +18,7 @@ int main()
 
 	// cout << Absolute(-5);
 
-	Score();
+	MemberPrint();
 }
 
 // 함수 정의 : main함수 뒤에 정의

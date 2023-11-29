@@ -5,7 +5,9 @@ C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\Ch04_Condition.cpp;C:\Use
 C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\Ch05_Iteration.cpp;C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\x64\Debug\Ch05_Iteration.obj
 C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\Ch06_Function.cpp;C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\x64\Debug\Ch06_Function.obj
 C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\Ch07_VarScope.cpp;C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\x64\Debug\Ch07_VarScope.obj
+C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\Ch08-1_MemberMethod.cpp;C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\x64\Debug\Ch08-1_MemberMethod.obj
 C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\Ch08_Array.cpp;C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\x64\Debug\Ch08_Array.obj
+C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\Ch08_Member.cpp;C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\x64\Debug\Ch08_Member.obj
 C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\Ch09_Structure.cpp;C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\x64\Debug\Ch09_Structure.obj
 C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\Ch10_Enumeration.cpp;C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\x64\Debug\Ch10_Enumeration.obj
 C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\Ch11_Pointer.cpp;C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\x64\Debug\Ch11_Pointer.obj
@@ -14,6 +16,11 @@ C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\Ch13-1_ClassMethod.cpp;C:
 C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\Ch13-2_AirplaneMethod.cpp;C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\x64\Debug\Ch13-2_AirplaneMethod.obj
 C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\Ch13-3_This.cpp;C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\x64\Debug\Ch13-3_This.obj
 C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\Ch13_Class.cpp;C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\x64\Debug\Ch13_Class.obj
+C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\Ch14_ArrayClass.cpp;C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\x64\Debug\Ch14_ArrayClass.obj
+C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\Ch15_StringClass.cpp;C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\x64\Debug\Ch15_StringClass.obj
+C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\Ch16_VectorClass.cpp;C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\x64\Debug\Ch16_VectorClass.obj
+C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\Ch17-1_OverloadingMethod.cpp;C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\x64\Debug\Ch17-1_OverloadingMethod.obj
+C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\Ch17_Overloading.cpp;C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\x64\Debug\Ch17_Overloading.obj
 C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\CP_Basic.cpp;C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\x64\Debug\CP_Basic.obj
 C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\Ex01_Flow.cpp;C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\x64\Debug\Ex01_Flow.obj
 C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\Ex02_Array.cpp;C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\x64\Debug\Ex02_Array.obj
@@ -22,3 +29,5 @@ C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\Ex04_Ball.cpp;C:\Users\ad
 C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\Ex05_Dice.cpp;C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\x64\Debug\Ex05_Dice.obj
 C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\Ex06_Score.cpp;C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\x64\Debug\Ex06_Score.obj
 C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\Ex06_ScoreMethod.cpp;C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\x64\Debug\Ex06_ScoreMethod.obj
+C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\Ex07-1_RobotMethod.cpp;C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\x64\Debug\Ex07-1_RobotMethod.obj
+C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\Ex07_Robot.cpp;C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\x64\Debug\Ex07_Robot.obj
