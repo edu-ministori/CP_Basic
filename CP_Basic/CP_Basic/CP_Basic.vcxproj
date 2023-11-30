@@ -150,6 +150,15 @@
     <ClCompile Include="Ch16_VectorClass.cpp" />
     <ClCompile Include="Ch17-1_OverloadingMethod.cpp" />
     <ClCompile Include="Ch17_Overloading.cpp" />
+    <ClCompile Include="Ch18-1_Inherit.cpp" />
+    <ClCompile Include="Ch18-1_InheritMethod.cpp" />
+    <ClCompile Include="Ch18_Inheritance.cpp" />
+    <ClCompile Include="Ch18_InheritanceMethod.cpp" />
+    <ClCompile Include="Ch19_ClassKeyword.cpp" />
+    <ClCompile Include="Ch19_ClassKeywordMethod.cpp" />
+    <ClCompile Include="Ch20_Type.cpp" />
+    <ClCompile Include="Ch21_Virtual.cpp" />
+    <ClCompile Include="Ch21_VirtualMethod.cpp" />
     <ClCompile Include="CP_Basic.cpp" />
     <ClCompile Include="Ex01_Flow.cpp" />
     <ClCompile Include="Ex02_Array.cpp" />
@@ -162,6 +171,10 @@
     <ClCompile Include="Ex07_Robot.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Ch18-1_Inherit.h" />
+    <ClInclude Include="Ch18_Inheritance.h" />
+    <ClInclude Include="Ch19_ClassKeyword.h" />
+    <ClInclude Include="Ch21_Virtual.h" />
     <ClInclude Include="Ex08-1_MemberClass.h" />
     <ClInclude Include="Ch13-1_ClassHeader.h" />
     <ClInclude Include="Ch13-2_Airplane.h" />

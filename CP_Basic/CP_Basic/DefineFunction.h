@@ -76,3 +76,11 @@ void OverloadingFunction();
 
 void Robot();
 void MemberPrint();
+
+void Inheritance();
+void Inherit();
+
+void ClassKeyword();
+
+void Type();
+void Virtual();
