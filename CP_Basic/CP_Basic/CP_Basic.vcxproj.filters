@@ -108,10 +108,10 @@
     <ClCompile Include="Ex07-1_RobotMethod.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Ch08_Member.cpp">
+    <ClCompile Include="Ex08_Member.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Ch08-1_MemberMethod.cpp">
+    <ClCompile Include="Ex08-1_MemberMethod.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Ch18_InheritanceMethod.cpp">
@@ -139,6 +139,12 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Ch21_VirtualMethod.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex09_PersonMethod.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex09_Person.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -180,6 +186,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Ch21_Virtual.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ex09_Person.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

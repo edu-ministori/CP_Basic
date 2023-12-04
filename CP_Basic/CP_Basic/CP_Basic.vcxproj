@@ -134,9 +134,9 @@
     <ClCompile Include="Ch05_Iteration.cpp" />
     <ClCompile Include="Ch06_Function.cpp" />
     <ClCompile Include="Ch07_VarScope.cpp" />
-    <ClCompile Include="Ch08-1_MemberMethod.cpp" />
+    <ClCompile Include="Ex08-1_MemberMethod.cpp" />
     <ClCompile Include="Ch08_Array.cpp" />
-    <ClCompile Include="Ch08_Member.cpp" />
+    <ClCompile Include="Ex08_Member.cpp" />
     <ClCompile Include="Ch09_Structure.cpp" />
     <ClCompile Include="Ch10_Enumeration.cpp" />
     <ClCompile Include="Ch11_Pointer.cpp" />
@@ -169,6 +169,8 @@
     <ClCompile Include="Ex06_ScoreMethod.cpp" />
     <ClCompile Include="Ex07-1_RobotMethod.cpp" />
     <ClCompile Include="Ex07_Robot.cpp" />
+    <ClCompile Include="Ex09_Person.cpp" />
+    <ClCompile Include="Ex09_PersonMethod.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Ch18-1_Inherit.h" />
@@ -183,6 +185,7 @@
     <ClInclude Include="DefineFunction.h" />
     <ClInclude Include="Ex06_ScoreClass.h" />
     <ClInclude Include="Ex07-1_RobotClass.h" />
+    <ClInclude Include="Ex09_Person.h" />
     <ClInclude Include="io.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

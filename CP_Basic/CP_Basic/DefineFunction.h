@@ -84,3 +84,5 @@ void ClassKeyword();
 
 void Type();
 void Virtual();
+
+void PrintStudent();
